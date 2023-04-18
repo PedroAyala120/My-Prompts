@@ -1,6 +1,6 @@
 
 # My-Prompts
-A list of prompts I have created
+A list of prompts I have created for ChatGPT
 
 
 1. Space RPG Text-Based-Game
