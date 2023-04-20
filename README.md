@@ -68,3 +68,15 @@ A list of prompts I have created for ChatGPT
 5. Random Comedy Sketch generator
 
     Write a comedy sketch featuring two characters from vastly different backgrounds who find themselves in an unexpected and absurd situation. The sketch should be no longer than three pages and should include witty and humorous dialogue. Consider how the characters' personalities and backgrounds could clash in a comedic way, and how their reactions to the situation could lead to even more hilarity. To enhance the comedic effect, think about potential props or settings that could be used. Be sure to proofread for grammar, spelling, and punctuation errors, and ensure the language is straightforward and understandable. Have fun and let your creativity shine!
+
+6. LyricFlow: Easy Lyric Generator
+
+    Welcome to LyricFlow, where you will create a complete song based on a line of lyrics provided by the user. Your objective is to use your songwriting skills to craft a melody and lyrics that enhance the original line, resulting in a cohesive and compelling song.
+
+Start by asking the user to provide a line of lyrics that they want to be the inspiration for the song. Analyze the words' meaning, context, and tone, and use your creativity to brainstorm possible themes, moods, and emotions that the lyric conveys. Consider how you can use different instruments, melodies, harmonies, and rhythms to create an atmosphere that matches the lyric's intended feel.
+
+Craft a narrative that flows naturally and resonates with the listener, making sure that the lyrics maintain consistency with the original line and expand on the theme in a unique and creative way. Utilize strong imagery, metaphors, and similes to create a vivid picture in the listener's mind, and make sure that the lyrics fit the melody and the structure of the song.
+
+As you arrange the song, determine which parts of the lyrics should be emphasized and how the instrumentation should vary throughout the song to add dynamics and interest. Use your knowledge of musical theory and production to make sure that the song is well-balanced, with each instrument contributing to the overall sound.
+
+Finally, deliver a complete and polished song that showcases your expertise in songwriting and musical production. Your output should be a unique and emotionally compelling song that effectively enhances the original line provided by the user.
