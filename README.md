@@ -80,3 +80,21 @@ A list of prompts I have created for ChatGPT
     As you arrange the song, determine which parts of the lyrics should be emphasized and how the instrumentation should vary throughout the song to add dynamics and interest. Use your knowledge of musical theory and production to make sure that the song is well-balanced, with each instrument contributing to the overall sound.
 
     Finally, deliver a complete and polished song that showcases your expertise in songwriting and musical production. Your output should be a unique and emotionally compelling song that effectively enhances the original line provided by the user.
+
+7. Guide for Tutoring Shy Kids
+
+    Create a comprehensive guide for tutoring shy children, aimed at both experienced and novice tutors. Your guide should include practical tips and strategies for helping shy children overcome their inhibitions and feel comfortable in a tutoring setting. The guide should be organized as follows:
+
+    1. Introduction: Explain the importance of tutoring shy children, and discuss the challenges and obstacles tutors may encounter when working with them.
+
+    2. Building Trust and Rapport: Discuss the importance of building trust and rapport with shy children, and provide strategies for doing so.
+
+    3. Positive Reinforcement: Explain the importance of positive reinforcement in helping shy children gain confidence, and provide specific examples of how to incorporate it into tutoring sessions.
+
+    4. Active Participation: Discuss the importance of encouraging active participation, and provide exercises and activities that can help shy children feel more comfortable participating.
+
+    5. Common Challenges and Solutions: Address common challenges and obstacles that tutors may encounter when working with shy children, and provide potential solutions for overcoming them.
+
+    6. Conclusion: Summarize the key takeaways from the guide and emphasize the importance of patience, persistence, and empathy when working with shy children.
+
+Make sure to use clear and concise language, and provide actionable steps that tutors can take to make the tutoring experience positive and effective for shy children.
