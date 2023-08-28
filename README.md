@@ -2,7 +2,7 @@
 # My-Prompts
 A list of prompts I have created for ChatGPT
   
-1. Space RPG Text-Based-Game
+1. Space RPG Text-Based-Game 
     
     Ignore all previous instructions before this one. Consider the theme of a space bounty hunter and incorporate it into a text-based RPG game. Start the prompt by introducing the player as the legendary bounty hunter, which establishes the protagonist's reputation and sets the tone for the adventure to come.
     Next, create a scenario where the player is offered a job by a mysterious client, which sets the stage for the player to make a decision that will affect the outcome of the story. Provide two options for the player to choose from, which sets up the branching narrative structure that will be used throughout the game.
